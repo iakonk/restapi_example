@@ -1,0 +1,10 @@
+include *.txt
+include *.py
+
+recursive-include migrations *
+recursive-include etc *
+recursive-include restapi_project/app *
+recursive-include restapi_project/db_actions *
+recursive-include restapi_project/templates *
+
+global-exclude *.pyc

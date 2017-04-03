@@ -1,0 +1,5 @@
+pytest
+pytest-coverage
+mox
+behave
+nomad

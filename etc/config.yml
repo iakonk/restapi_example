@@ -1,0 +1,3 @@
+database:
+    filename: 'migrations/project_db.sqlite'
+    table: registered_members
